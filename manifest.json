@@ -1,9 +1,9 @@
 {
-    "id": "python-to-mermaid",
-    "name": "Python to Mermaid",
+    "id": "code-to-mermaid",
+    "name": "Code to Mermaid",
     "version": "1.0.0",
     "minAppVersion": "0.15.0",
-    "description": "Converts Python code blocks into Mermaid flow charts.",
+    "description": "Converts supported code blocks into Mermaid flow charts.",
     "author": "Makaze",
     "authorUrl": "https://github.com/Makaze",
     "fundingUrl": "https://paypal.me/Makaze",

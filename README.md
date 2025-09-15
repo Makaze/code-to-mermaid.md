@@ -1,6 +1,8 @@
-# Obsidian Python to Mermaid Plugin
+# Obsidian Code to Mermaid Plugin
 
 This is a code visualization plugin for Obsidian (https://obsidian.md).
+
+Currently only supports Python.
 
 This project uses TypeScript to provide type checking and documentation for the Obsidian-specific code.
 The repo depends on the latest plugin API (obsidian.d.ts) in TypeScript Definition format, which contains TSDoc comments describing what it does.
